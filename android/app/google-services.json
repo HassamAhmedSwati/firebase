@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006158938362",
+    "project_id": "fir-9f42e",
+    "storage_bucket": "fir-9f42e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006158938362:android:090b8cb815c04564c38943",
+        "android_client_info": {
+          "package_name": "com.Swatitech.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEikGpW40rCi59PFMWKUS1_yxEc5BdB3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
